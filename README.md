@@ -24,3 +24,15 @@ For the king piece the above algorithm doesn’t work as it checks for the valid
 A king can up and down so he can make kills in two opposite directions.
 We have written a similar algorithm, two methods called checkKingLeft and checKingRight which check left and right and also simultaneously check top and bottom. 
 We have called these methods recursively to achieve this task. 
+# Screen Shots
+## Start Of Game
+![Screenshot 2022-05-21 204758](https://user-images.githubusercontent.com/65329637/169658416-e992757c-3b9c-4573-953a-8f8f543be175.png)
+## First Move Of AI
+![Screenshot 2022-05-21 204847](https://user-images.githubusercontent.com/65329637/169658431-85609561-d3d2-4ee0-ad93-af451e7859db.png)
+## King Coin
+![king](https://user-images.githubusercontent.com/65329637/169658462-87d4f4b2-f08f-4ac2-9f5a-4f96a706e2b7.png)
+## AI Win
+![AI_Win](https://user-images.githubusercontent.com/65329637/169658486-ae5c6936-29b0-4f87-ac2b-c6d605cee937.png)
+
+
+
